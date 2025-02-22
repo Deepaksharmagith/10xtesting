@@ -2,7 +2,7 @@ package ex_09_Switch;
 
 public class Lab097 {
     public static void main(String[] args) {
-        int a = 11;
+        int a = 11;  // it is for create confusion.
         switch (-1){
             default:
                 System.out.println("Default");

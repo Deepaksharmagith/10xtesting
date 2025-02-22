@@ -8,7 +8,7 @@ public class Lab094_Interview {
                 System.out.println("A");
         }
 
-//        boolean b = true;
+//        boolean b = true;   boolean is not valid in switch
 //        switch (b) {
 //        }
 
@@ -21,7 +21,7 @@ public class Lab094_Interview {
             case 98:
                 System.out.println("98");
 //          case 98:
-//                System.out.println("98");
+//                System.out.println("98");    same case is not valid
         }
 
 

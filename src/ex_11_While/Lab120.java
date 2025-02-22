@@ -3,7 +3,7 @@ package ex_11_While;
 public class Lab120 {
     public static void main(String[] args) {
 //        while (true){
-//            System.out.println("Pramod");
+//            System.out.println("Pramod");     infinet run
 //        }
 
         int i1 = 10;

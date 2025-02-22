@@ -8,6 +8,6 @@ public class Lab114_break {
             }
             System.out.println(i);
 
-        }
+        } // break program se bahar le aayega , iss line pr
     }
 }

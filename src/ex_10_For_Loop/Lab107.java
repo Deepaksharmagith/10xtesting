@@ -18,5 +18,5 @@ public class Lab107 {
 //        for(; ; ) {
 //            System.out.println("Hello");
 //        }
-    }
+    }    // all run infinite
 }

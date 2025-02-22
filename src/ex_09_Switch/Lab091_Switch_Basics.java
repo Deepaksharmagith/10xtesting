@@ -14,7 +14,7 @@ public class Lab091_Switch_Basics {
 
         switch (day) {
             case 1:
-                System.out.println("Mon");
+                System.out.println("Mon");        //Remove break and than try to run
                 break;
             case 2:
                 System.out.println("Tue");

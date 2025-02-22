@@ -2,8 +2,8 @@ package ex_09_Switch;
 
 public class Lab096_Switch_JDK_13_Concept {
     public static void main(String[] args) {
-        // JDK > 13
-
+        // this is availabe in JDK > 13
+// use to match multiple condition
         int itemcode = 006;
 
         switch (itemcode){

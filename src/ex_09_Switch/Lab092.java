@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Lab092 {
     public static void main(String[] args) {
-        // Web Automation
+        // Switch use in Web driver Automation
         // I will ask user which browser you want me to run the code.
         // chrome -> execute chrome
         // firefox -> execute of firefox

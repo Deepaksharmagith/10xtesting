@@ -10,3 +10,4 @@ public class Lab108 {
 //        }
     }
 }
+// can be use long, flot , pt mt kro confusing h. use it with int

@@ -5,7 +5,7 @@ public class Lab095 {
         int itemCode = 001; // JDK  >13
 
         switch (itemCode){
-            case 001 -> System.out.println("001");
+            case 001 -> System.out.println("001");  // -> this is break, this is new feature
             case 002 -> System.out.println("002");
             case 003 -> System.out.println("003");
             default -> System.out.println("Default");

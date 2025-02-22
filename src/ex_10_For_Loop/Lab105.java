@@ -2,7 +2,7 @@ package ex_10_For_Loop;
 
 public class Lab105 {
     public static void main(String[] args) {
-        for (int i = 0; ; i++) {
+        for (int i = 0; ; i++) {    // no conditio here so run till infinit
             System.out.println(i);
         }
 
