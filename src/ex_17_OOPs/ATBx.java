@@ -17,7 +17,7 @@ public class ATBx {
     void eat(){}
     void sleep(){};
 
-
+// no memory taken by this class until you call this class.
 
 
 

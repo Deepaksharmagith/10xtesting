@@ -2,11 +2,11 @@ package ex_17_OOPs;
 
 public class     Lab159 {
     public static void main(String[] args) {
-        ATBx amit = new ATBx();
+        ATBx amit = new ATBx();  //new ATBx();--obj, amit--reff
         amit.name = "Amit Sharma";
         amit.salary = 10;
-        ATBx pramod = new ATBx();
 
+        ATBx pramod = new ATBx();
         pramod.name = "Pramod Dutta";
         pramod.salary = 20;
 

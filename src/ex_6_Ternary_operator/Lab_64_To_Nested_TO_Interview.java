@@ -7,7 +7,8 @@ public class Lab_64_To_Nested_TO_Interview {
         // first check condition2 then 1
 
         int number = 15;
-        String result = (number > 10) ? (number > 20? "G > 20" : "B/w 10 to 20") : "B";  // 1st solve inner bracket
+        String result = (number > 10) ? (number > 20? "G > 20" : "B/w 10 to 20") : "B";
+        // 1st solve inner bracket
         // op of inner bracket is B/w 10 to 20
         System.out.println(result);
     }

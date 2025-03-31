@@ -20,3 +20,4 @@ public class Lab_67_intervier_max_of_3 {
         System.out.println(largest);
     }
 }
+

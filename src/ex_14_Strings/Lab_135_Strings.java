@@ -5,7 +5,7 @@ public class Lab_135_Strings {
         char c  = 'A';  // this is a charactor not string
         System.out.println(c);
 
-        String s1 = "Pramod";   // si string has 6 charractor
+        String s1 = "Pramod";   // s1 string has 6 charractor
         System.out.println(s1.length());
         System.out.println(s1.toLowerCase());
         System.out.println(s1.toUpperCase());
